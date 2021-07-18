@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title><![CDATA[My feed]]></title>
+        <link><![CDATA[http://tsmi.live/feeds.main]]></link>
+        <description><![CDATA[The description of the feed.]]></description>
+        <language>ru-RU</language>
+        <pubDate>2021-07-18T07:57:16+00:00</pubDate>
+
+                    <item>
+                <title><![CDATA[В ДНР не выявили новые случаи заражения COVID-19]]></title>
+                <link>http://tsmi.live/news/2b5a1b01</link>
+                <description><![CDATA[За #минувшие сутки, 17 июля, в ДНР не выявлены новые случаи заражения COVID-19, поскольку в Республике не #проводили исследования на коронавирусную инфекцию]]></description>
+                <author><![CDATA[www.mk-donbass.ru]]></author>
+                <guid isPermaLink="false">2021-07-18-0757162b5a1b01</guid>
+                <pubDate>Sun, 18 Jul 2021 07:57:16 +0000</pubDate>
+                                    <enclosure url="https://static.mk.ru/upload/entities/2021/07/18/10/articles/detailPicture/c0/35/51/e1/0f6641f946dd99da5b9bb6c4c660c8af.jpg" length="0" type="image/jpeg" />
+                                            </item>
+                    <item>
+                <title><![CDATA[Bild: число жертв наводнения в Германии достигло 156]]></title>
+                <link>http://tsmi.live/news/9edb8f30</link>
+                <description><![CDATA[Число жертв разрушительного наводнения в #Германии достигло #156, сообщил таблоид #Bild]]></description>
+                <author><![CDATA[ria.ru]]></author>
+                <guid isPermaLink="false">2021-07-18-0440119edb8f30</guid>
+                <pubDate>Sun, 18 Jul 2021 04:40:11 +0000</pubDate>
+                                    <enclosure url="http://tsmi.live/img/cover.jpg" length="0" type="image/jpeg" />
+                                            </item>
+                    <item>
+                <title><![CDATA[Путин поздравил металлургов и горняков с профессиональным праздником]]></title>
+                <link>http://tsmi.live/news/5dded52a</link>
+                <description><![CDATA[Президент #России #Владимир #Путин поздравил работников и ветеранов горно-металлургического комплекса с #Днем металлурга, отметив, что от их эффективной и слаженной работы зависит развитие промышленности и укрепление обороноспособности страны, соответствующая телеграмма опубликована на сайте #Кремля]]></description>
+                <author><![CDATA[ria.ru]]></author>
+                <guid isPermaLink="false">2021-07-18-0628515dded52a</guid>
+                <pubDate>Sun, 18 Jul 2021 06:28:51 +0000</pubDate>
+                                    <enclosure url="https://cdn24.img.ria.ru/images/152667/14/1526671470_0:87:2500:1493_600x0_80_0_0_ba266045a637830d34fe8621596cd109.jpg" length="0" type="image/jpeg" />
+                                            </item>
+            </channel>
+</rss>
